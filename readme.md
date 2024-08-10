@@ -19,8 +19,7 @@ npm i webtorrent-cli@1.3.0
 
 # How to install #
 ```sh
-curl -sL https://raw.githubusercontent.com/jmswu/stream/main/stream.sh -o stream.sh
-chmod +x ./stream.sh
+curl -sL https://raw.githubusercontent.com/jmswu/stream/main/stream.sh -o stream.sh && chmod +x ./stream.sh
 ```
 
 # How to use #
